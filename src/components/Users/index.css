@@ -1,0 +1,21 @@
+.block {
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.send-invite-btn {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.hide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.hide {
+    font-size: 20px;
+}
+.hide:hover {
+    color: rgb(251, 59, 25);
+    cursor: pointer;
+}
